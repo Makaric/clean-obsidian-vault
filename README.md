@@ -20,6 +20,7 @@
 - `30_RESOURCES/` — Useful info, references, and external knowledge.
 - `40_FINANCE/` — Wealth tracking and energy exchange.
 - `99_ARCHIVE/` — Cold storage for completed projects.
+- `AI_SYNC/` — Shared memory for AI agents (Claude, Cursor, Copilot).
 - `Templates/` — Pre-built markdown structures (Daily Log, Project Manifest).
 
 ---
